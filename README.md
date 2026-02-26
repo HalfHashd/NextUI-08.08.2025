@@ -6,6 +6,7 @@ The visual NxUI is the fastest way to see-know the states, the recent past price
 NxUI is a new advance in UI art using a native-state interface where the UI directly represents the subject’s live state in real time, enabling direct and natural manipulation. This visual-and-touch first design is faster and more intuitive than text-based controls. Proof of Concept: tracking and adjusting active trades or stake-pools in real time, instantly reallocating or seeing states of your crypto assets. (Shortcut: nxui.net to this github page. Also tinyurl.com/1000xui) 
 
 The aha moment: 
+
 After blowing my 100x levered trade account for the umpteenth time, I got the thought: 
 I am looking at the wrong candles! 
 The candle I should be paying attention to is my trade-account-state candle.
