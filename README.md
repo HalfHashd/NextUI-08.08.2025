@@ -16,9 +16,9 @@ Also the user can get a combined "net state" of the account. (Not shown.)
 <p align="center">
 <img width="232" height="409" alt="NxUI main 02 25 2026 sm" src="https://github.com/user-attachments/assets/d4f872d2-da17-4c2e-8622-bb975c611d72" />
 </p>
-# NxUI<sup>™</sup>.net
+### NxUI<sup>™</sup>.net
 
-**The first multi-dimensional interface that fuses the "live 3D" object with digital UI--replacing flat UIs with living, state-native controls.**
+**The first multi-dimensional interface that fuses -- the "live-feel" of the subject-object with the digital UI--with "real feel controls".**
 
 <h2 align="center">NxUI<sup>™</sup> Concept Images</h2>
 
