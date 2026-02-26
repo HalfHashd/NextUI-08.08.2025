@@ -3,11 +3,11 @@ Next UI (NxUI) is a virtual candle that represents the current state of your tra
 
 The visual NxUI is the fastest way to see-know the states, the recent past price actions, etc. Visual information is orders of magnitude faster than alphnumeric text, numbers, and descriptive words. 
 
-NxUI is a new advance in UI art using Native-State interface where the UI directly represents the subject object’s live state, enabling you to manipulate it naturally. This visual-and-touch first design is faster and more intuitive than text-based controls. Proof of Concept(original): tracking and adjusting active trades or stake-pools in real time, instantly reallocating or seeing states of your crypto assets. (Shortcut: nxui.net to this github page. Also tinyurl.com/1000xui) 
+NxUI is a new advance in UI art using a native-state interface where the UI directly represents the subject’s live state in real time, enabling direct and natural manipulation. This visual-and-touch first design is faster and more intuitive than text-based controls. Proof of Concept: tracking and adjusting active trades or stake-pools in real time, instantly reallocating or seeing states of your crypto assets. (Shortcut: nxui.net to this github page. Also tinyurl.com/1000xui) 
 
 # NxUI<sup>™</sup>.net
 
-**The first AI-enabled, multi-dimensional interface that fuses analog human intuition with deterministic digital system--replacing flat UIs with living, manipulable state-native controls and freeing us from the stern alphanumeric text and writing taskmaster.**
+**The first multi-dimensional interface that fuses the "live 3D" object with digital UI--replacing flat UIs with living, state-native controls.**
 
 <h2 align="center">NxUI<sup>™</sup> Concept Images</h2>
 
