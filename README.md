@@ -8,7 +8,7 @@ NxUI is a new advance in UI art using a native-state interface where the UI dire
 ### The aha moment:
 After blowing my 100x levered trade account for the umpteenth time, I got the thought: 
 I am looking at the wrong candles! 
-The candle I should be paying attention to is my trade-account-state candle.
+The candle I should be paying attention to is my trade-account candle. 
 
 # NxUI with 4 assets example. 
 This shows the 4 active assets. Each can be seen separately. 
