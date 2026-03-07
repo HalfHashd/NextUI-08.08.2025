@@ -11,7 +11,7 @@ I am looking at the wrong candles!
 The candle I should be paying attention to is my trade-account candle. 
 
 ### The next:
-I want to exclusively partner/license/collab Nxui to one fintech company. For example Robin Hood, Coinbase.
+I want to exclusively partner/license/collab NxUI to one fintech company. For example Robin Hood, Coinbase.
 
 # NxUI with 4 assets example. 
 This shows the 4 active assets. Each can be seen separately. 
